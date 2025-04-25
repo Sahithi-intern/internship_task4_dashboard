@@ -1,11 +1,14 @@
  Sales Analysis Dashboard – Task 4
-🔍 Power BI Dashboard using Pavan Lalwani Sales Dataset
+
+Power BI Dashboard using Pavan Lalwani Sales Dataset
 Internship Task by Elevate Labs
 
-📁 Dataset Used
+Dataset Used
 Name: Pavan Lalwani Sales Report.xlsx
 
 Source: Dataset inspired by training content from Power BI expert Pavan Lalwani
+
+
 
 Data Includes:
 
@@ -15,12 +18,15 @@ Product Category, Quantity, Sales, Profit
 
 Customer and Order details
 
-🛠 Tools Used
+
+
+Tools Used
 Microsoft Power BI for data modeling and visualization
 
 Excel (initial source format)
 
-✅ What I Did
+
+What I Did
 As part of Task 4 in the Elevate Labs Data Analyst Internship:
 
 Imported and cleaned the sales data
@@ -37,7 +43,8 @@ Added filters for region, segment, and category to enhance user interaction
 
 Performed trend and category-wise performance analysis
 
-📊 Dashboard Highlights
+
+Dashboard Highlights
 KPI Cards showing key metrics (Sales, Profit, Quantity)
 
 Bar & Column Charts for product and region-wise comparison
@@ -48,12 +55,15 @@ Pie Chart for segment distribution
 
 Slicers to filter data dynamically (Region, Segment, Category)
 
-Clean, minimalist layout for ease of understanding
+Clean, minimalist layout for ease of understanding 
 
-🎯 Objective
+
+ Objective
 To build a meaningful and professional sales report dashboard that can help stakeholders understand business performance, identify best-selling products/regions, and make data-driven decisions.
 
-📌 File Included
+
+
+File Included
 task4.pbix – Power BI report file
 
 Pavan Lalwani Sales Report.xlsx – Source dataset used
